@@ -1,6 +1,11 @@
 # wttr-cli
 A cli program that prints the current temperature for a given location
 
+## Installation
+```bash
+go get github.com/czwinzscher/wttr-cli
+```
+
 ## Usage
 ```bash
 # wttr-cli <scale-opts> <Location>
